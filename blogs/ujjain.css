@@ -1,0 +1,36 @@
+.ujjain-1 {
+    background-image: url("back.jpg");
+    padding: 52px;
+}
+
+.uj-int {
+
+    font-size: 41px;
+    color: cornsilk;
+    padding: 0 329px;
+
+}
+.foot{
+    text-decoration: none;
+}
+.container{
+    max-width: 794px;
+  border: 2px solid black;
+  padding: 12px;
+  background-color: rgb(216, 213, 213);
+}
+
+
+.head1{
+    display: flex;
+    padding: 5px;
+    
+}
+.head1 p{
+    font-size: 56px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: red;
+}
+.head1 h1{
+    margin: auto 12px;
+}
